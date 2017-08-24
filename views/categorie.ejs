@@ -1,0 +1,21 @@
+<% include header %>
+
+<h1>Mobile Museum</h1>
+
+<a href="/" id="home"> </a><h3 id="home">Homepage>><%- categorieen[id] %></h3>
+
+  <% for (var i = 0; i < items.length; i++) { %>
+    <% if (items[i].categorieen.indexOf(categorieen[id]) !== -1) { %>
+      <section>
+          <h2>
+            <a href=/items/<%- items[i].id %>><%- items[i].titel %></a>
+          </h2>
+          <img src="/img/<%- items[i].afbeeldings %>" alt="<%- items[i].titel %>"  class="frame">
+          <p id="door"><%- items[i].uitvoerder %></p>
+          <p class="datum"><%- items[i].datum %></p>
+          <hr />
+      </section>
+    <% } %>
+  <% } %>
+
+<% include footer %>

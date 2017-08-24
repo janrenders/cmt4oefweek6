@@ -1,0 +1,205 @@
+{
+    "nieuws":
+    [
+        {
+            "titel": "Mona Lisa",
+            "id": 212,
+            "uitvoerder": "Door: Leonardo Da Vinci",
+            "categorieen": ["Schilderij"],
+            "datum" : "1503–1519",
+            "body": "<p >The Mona Lisa’s status as cultural icon has been cemented not only by the countless works of art, poetry, literary and music it’s inspired, but also by the fact that the title itself has entered the language as a superlative. Painted between 1503 and 1517, Da Vinci’s alluring portrait has been dogged by two questions almost since the day it was made: Who is the subject, and why is she smiling? There’s no good answer for either, though the sitter’s identity has prompted numerous theories. The most widely accepted is that she’s the wife of the Florentine merchant Francesco di Bartolomeo del Giocondo (ergo, the work’s alternative title, La Gioconda). Another notion holds that the model may have been Leonardo’s mother, Caterina, and that her appearance may have derived from Leonardo’s boyhood memories of her. Finally, there’s the suggestion that the painting is, in reality, a self-portrait in drag—which, if true, would suggest that queer aesthetics is nothing new. </p>",
+            "afbeeldingl": "monalisa.jpg",
+            "afbeeldings": "monalisa.jpg"
+        },
+        {
+            "titel": "David",
+            "id": 210,
+            "uitvoerder": "Door: Michelangelo",
+            "categorieen": ["Beeld"],
+            "datum" : " 1501-1504",
+            "body": "<p>One of the most iconic works in all of art history, Michelangelo’s David had its origins in a larger project to decorate the buttresses of Florence’s great cathedral, the Duomo, with a group of figures taken from the Old Testament. The David was one, and was actually begun in 1464 by Agostino di Duccio. Over the next two years, Agostino managed to rough out part of the huge block of marble hewn from the famous quarry in Carrara before stopping in 1466. (No one knows why.) Another artist picked up the slack, but he, too, only worked on it briefly. The marble remained untouched for the next 25 years, until Michelangelo resumed carving it in 1501.</p>",
+            "afbeeldingl": "david.jpg",
+            "afbeeldings": "david.jpg"
+        },
+        {
+          "titel": "Venus of Willendorf",
+          "id": 100,
+          "uitvoerder": "Door: Onbekende artiest",
+          "categorieen": ["Beeld", "Onbekende artiest"],
+          "datum" : " 28,000–25,000 BC",
+          "body": "<p>The ur sculpture of art history, this tiny figurine measuring just over four inches in height was discovered in Austria in 1908. Nobody knows what function it served, but guesswork has ranged from fertility goddess to masturbation aid. Some scholars suggest it may have been a self-portrait made by a woman. It’s the most famous of many such objects dating from the Old Stone Age.</p>",
+          "afbeeldingl": "willendorf.jpg",
+          "afbeeldings": "willendorf.jpg"
+        },
+        {
+          "titel": "Girl with a Pearl Earring",
+          "id": 60,
+          "uitvoerder": "Door: Johannes Vermeer",
+          "categorieen": ["Schilderij"],
+          "datum" : " 1655",
+          "body": "<p>Painted around 1665, Johannes Vermeer’s study of a young woman is arguably the equal to the Mona Lisa in capturing the feminine mystique. But while the Mona Lisa is idealized to the point of appearing otherworldly, Vermeer’s Girl is startlingly real—and more to the point, startlingly modern, almost as if it were a photograph. This gets into the debate over whether or not Vermeer employed a camera obscura as an aid in creating the image. A pre-photographic device, a camera obscura could capture a scene through a lens, and project it on a wall or other surface opposite the aperture. Lens grinding had become a practice by the 17th-century, so its use was conceivable. </p>",
+          "afbeeldingl": "girl.jpg",
+          "afbeeldings": "girl.jpg"
+        },
+        {
+          "titel": "The Birth of Venus",
+          "id": 22,
+          "uitvoerder": "Door: Sandro Botticelli",
+          "categorieen": ["Schilderij"],
+          "datum" : " 1484–1486",
+          "body": "<p>Painted sometime between 1482 and 1485, Botticelli’s mythological composition was the first full-length, non-religious nude since antiquity. Botticelli began work on it after returning to Florence from Rome, where he’d been finishing three frescoes for the Sistine Chapel commissioned by Pope Sixtus IV. The Birth of Venus was made for Lorenzo de' Medici, and it is claimed that the figure of the Goddess of Love is modeled after one Simonetta Cattaneo Vespucci, whose favors were allegedly shared by Lorenzo and his younger brother, Giuliano. According to classical myth, the origin story of Venus is just as filled with familial drama.</p>",
+          "afbeeldingl": "venus.jpg",
+          "afbeeldings": "venus.jpg"
+        },
+        {
+          "titel": "Bust of Nefertiti",
+          "id": 10,
+          "uitvoerder": "Door: Onbekende artiest",
+          "categorieen": ["Beeld", "Onbekende artiest"],
+          "datum" : "  1345 BC",
+          "body": "<p>This portrait has been a symbol of feminine beauty since it was first unearthed in 1912 within the ruins of Amarna, the capital city built by the most controversial Pharaoh of Ancient Egyptian history: Akhenaten. Ascending the throne as Amenhotep IV, Akhenaten changed his name as part of his decision to overturn the established pantheon of Egyptian gods to start his own a religion: An monotheistic cult devoted to the sun god Aten, which was represented as an abstract disk in carvings and wall murals. </p>",
+          "afbeeldingl": "nefertiti.jpg",
+          "afbeeldings": "nefertiti.jpg"
+        },
+        {
+          "titel": " The Starry Night",
+          "id": 33,
+          "uitvoerder": "Door: Vincent van Gogh",
+          "categorieen": ["Schilderij"],
+          "datum" : " 1889",
+          "body": "<p>OThe Starry Night is Vincent Van Gogh’s most famous and popular painting—so popular, in fact, it inspired a treacly song by “American Pie” balladeer Don McClean. That shouldn’t be held against Van Gogh’s work, which has certainly earned its place in art history. Shortly before he painted it in 1889, Van Gogh wrote to his brother, Theo, and described the night sky as he looked out from his room at the asylum in Saint-Rémy, where he’d committed himself the same year. Though galvanized by direct observation, The Starry Night is visionary expression, springing from the yin and yang of Van Gogh’s personal demons and awe of nature.</p>",
+          "afbeeldingl": "starry.jpg",
+          "afbeeldings": "starry.jpg"
+        },
+        {
+          "titel": "Arrangement in Grey and Black No. 1",
+          "id": 211,
+          "uitvoerder": "Door: James Abbott McNeill Whistler",
+          "categorieen": ["Schilderij"],
+          "datum" : " 1871",
+          "body": "<p>While this celebrated image of a matron in profile is colloquially known as Whistler’s Mother, its real title, Arrangement in Grey and Black No. 1, speaks to the artist’s ambition to pursue art for art’s sake. James Abbott McNeill Whistler painted the work in his London studio in 1871, and in it, the formality of portraiture becomes an essay in form. Whistler’s mother Anna is pictured as one element of several locked into an arrangement of right angles. In 1872, Whistler created another Arrangement in Grey and Black, this time featuring the writer Thomas Carlyle. While good, it doesn’t have the same impact as the original.</p>",
+          "afbeeldingl": "grey.jpg",
+          "afbeeldings": "grey.jpg"
+        },
+        {
+          "titel": "Laocoön and His Sons",
+          "id": 222,
+          "uitvoerder": "Door: Onbekende artiest",
+          "categorieen": ["Beeld", "Onbekende artiest"],
+          "datum" : " Second Century BC",
+          "body": "<p>Perhaps the most famous sculpture of Roman antiquity, Laocoön and His Sons was originally unearthed in Rome in 1506 and moved to the Vatican, where it resides to this day. It is based on the myth of a Trojan priest killed along with his sons by sea serpents sent by the sea god Poseidon as retribution for Laocoön’s attempt to expose the ruse of the Trojan Horse. Originally installed in the palace of Emperor Titus, this life-size figurative grouping, attributed to a trio of Greek sculptors from the Island of Rhodes, is unrivaled as a study of human suffering.</p>",
+          "afbeeldingl": "sons.jpg",
+          "afbeeldings": "sons.jpg"
+        },
+        {
+          "titel": "Ecstasy of Saint Teresa",
+          "id": 244,
+          "uitvoerder": "Door: Gian Lorenzo Bernini",
+          "categorieen": ["Beeld"],
+          "datum" : " 1647–1652",
+          "body": "<p>Acknowledged as an originator of the High Roman Baroque style, Gian Lorenzo Bernini created this masterpiece for a chapel in the Church of Santa Maria della Vittoria. The Baroque was inextricably linked to the Counter-Reformation through which the Catholic Church tried to stem the tide of Protestantism surging across 17th-century Europe.Ecstasy’s erotic overtones are unmistakable, most obviously in the nun’s orgasmic expression and the writhing fabric wrapping both figures. An architect as all as an artist, Bernini also designed the setting of the Chapel in marble, stucco and paint.</p>",
+          "afbeeldingl": "ecstasy.jpg",
+          "afbeeldings": "ecstasy.jpg"
+        },
+        {
+          "titel": "The Kiss",
+          "id": 227,
+          "uitvoerder": "Door: Gustav Klimt",
+          "categorieen": ["Schilderij"],
+          "datum" : " 1907–1908",
+          "body": "<p>Opulently gilded and extravagantly patterned, The Kiss, Gustav Klimt’s fin-de-siècle portrayal of intimacy, is a mix of Symbolism and Vienna Jugendstil, the Austrian variant of Art Nouveau. Painted between 1907 and 1908, The Kiss depicts its embracing subjects as mythical figures made modern by luxuriant surfaces of up-to-the moment graphic motifs. The work is a highpoint of the artist’s Golden Phase, the period between 1899 an 1910 when he often used gold leaf. (Another example: His Portrait of Adele Bloch-Bauer I from 1907) Klimt was inspired to use this technique by a 1903 trip to Italy, which included a visit to Ravenna.</p>",
+          "afbeeldingl": "kiss.jpg",
+          "afbeeldings": "kiss.jpg"
+        },
+        {
+          "titel": "The Burghers of Calais",
+          "id": 93,
+          "uitvoerder": "Door: Auguste Rodin",
+          "categorieen": ["Beeld"],
+          "datum" : " 1894–85",
+          "body": "<p>While most people associate the great French sculptor Auguste Rodin with The Thinker, this ensemble commemorating an incident during the Hundred Years' War (1337–1453) between Britain and France is more important to the history of sculpture. Commissioned for a park in the city of Calais (where a year-long siege by the English in 1346 was lifted when six town elders offered themselves up for execution in exchange for sparing the population), The Burghers eschewed the format typical of monuments at the time: Instead of figures isolated or piled into a pyramid atop a tall pedestal, Rodin assembled his life-size subjects directly on the ground, level with the viewer.</p>",
+          "afbeeldingl": "burghers.jpg",
+          "afbeeldings": "burghers.jpg"
+        },
+        {
+          "titel": "Guitar",
+          "id": 23,
+          "uitvoerder": "Door: Pablo Picasso",
+          "categorieen": ["Beeld"],
+          "datum" : " 1912 - 1914",
+          "body": "<p>In 1912, Picasso created a cardboard maquette of a piece that would have an outsized impact on 20th-century art. Also in MoMA’s collection, it depicted a guitar, a subject Picasso often explored in painting and collage, and in many respects, Guitar transferred collage’s cut and paste techniques from two dimensions to three. It did the same for Cubism, as well, by assembling flat shapes to create a multifaceted form with both depth and volume. Picasso’s innovation was to eschew the conventional carving and modeling of a sculpture out of a solid mass. Instead, Guitar was fastened together like a structure. This idea would reverberate from Russian Constructivism down to Minimalism and beyond. Two years after making the Guitar in cardboard, Picasso created this version in snipped tin.</p>",
+          "afbeeldingl": "guitar.jpg",
+          "afbeeldings": "guitar.jpg"
+        },
+        {
+          "titel": "The Arnolfini Portrait",
+          "id": 12,
+          "uitvoerder": "Door: Jan van Eyck",
+          "categorieen": ["Schilderij"],
+          "datum" : " 1434",
+          "body": "<p>One of the most significant works produced during the Northern Renaissance’s early years, this 1434 composition on wood by the Flemish artist Jan van Eyck is believed to be one of the first paintings executed in oils. A full-length double portrait, it reputedly portrays an Italian merchant, Giovanni di Nicolao Arnolfini, and an unidentified woman who may or may not be his bride. There’s been some dispute about that, as well as some question as to whether the man is, in fact, Arnolfini. Regardless, the painting is known as the The Arnolfini Portrait, or, alternatively, as The Arnolfini Wedding or The Arnolfini Marriage, though again, there’s disagreement that the scene is a wedding</p>",
+          "afbeeldingl": "arnolfini.jpg",
+          "afbeeldings": "arnolfini.jpg"
+        },
+        {
+          "titel": "The Garden of Earthly Delights",
+          "id": 195,
+          "uitvoerder": "Door: Hieronymus Bosch",
+          "categorieen": ["Schilderij"],
+          "datum" : " 1503–1515",
+          "body": "<p>This fantastical triptych by the early Netherlandish painter Hieronymus Bosch dates from somewhere between 1490 and 1510, and is generally considered a distant forerunner to Surrealism. In truth, it is an act of devotion, the product of a late medieval mind that believed God and the Devil, Heaven and Hell were real. Of the three scenes depicted, the panel on the left shows Christ presenting Eve to Adam, while the one on the right features the depredations of Hell. Less clear is whether the center panel depicts Heaven, though it certainly evokes a paradise with its nude figures gamboling with exotic animals, giant pieces of fruit, and pink and blue structures resembling the architectural handiwork of Dr. Seuss. Relationships of scale are thrown completely out of the window, especially in Bosch’s perfervid vision of Hell, where giant musical instruments tower over tormented souls, and an enormous set of ears wielding a phallic knife is unleashed upon the damned. </p>",
+          "afbeeldingl": "garden.jpg",
+          "afbeeldings": "garden.jpg"
+        },
+        {
+          "titel": "Mlle Pogany",
+          "id": 43,
+          "uitvoerder": "Door: Constantin Brancusi",
+          "categorieen": ["Beeld", "Onbekende artiest"],
+          "datum" : " 1913",
+          "body": "<p>PBorn in Romania, Brancusi was one of most important sculptors of early-20th century modernism—and indeed, one of the most important figures in the entire history of sculpture. A sort of proto-minimalist, Brancusi took forms from nature and streamlined them into abstract representations. His style was influenced by the folk art of his homeland, which often featured vibrant geometric patterns and stylized motifs. He also made no distinction between object and base, treating them, in certain cases, as interchangeable components—an approach that represented a crucial break with sculptural traditions. This iconic piece is a portrait of his model and lover, Margit Pogány, a Hungarian art student he met in Paris in 1910. </p>",
+          "afbeeldingl": "pogany.jpg",
+          "afbeeldings": "pogany.jpg"
+        },
+        {
+          "titel": "Bicycle Wheel",
+          "id": 54,
+          "uitvoerder": "Door: Duchamp",
+          "categorieen": ["Beeld"],
+          "datum" : " 1913",
+          "body": "<p>Bicycle Wheel is considered the first of Duchamp’s revolutionary readymades. However, when he completed the piece in his Paris studio, he really had no idea what to call it. “I had the happy idea to fasten a bicycle wheel to a kitchen stool and watch it turn,” Duchamp would later say. It took a 1915 trip to New York, and exposure to the city’s vast output of factory-built goods, for Duchamp to come up with the readymade term. More importantly, he began to see that making art in the traditional, handcrafted manner seemed pointless in the Industrial Age. Why bother, he posited, when widely available manufactured items could do the job. For Duchamp, the idea behind the artwork was more important than how it was made. </p>",
+          "afbeeldingl": "wheel.jpg",
+          "afbeeldings": "wheel.jpg"
+        },
+        {
+          "titel": " A Sunday Afternoon on the Island of La Grande Jatte",
+          "id": 123,
+          "uitvoerder": "Door: Georges Seurat",
+          "categorieen": ["Schilderij"],
+          "datum" : " 1884–1886",
+          "body": "<p>Completed in 1886, Georges Seurat’s masterpiece of serenity is one of the most beloved paintings in art history, evoking in the minds of many the Paris of La Belle Epoque. Interestingly, Seurat is actually depicting a suburban scene well outside the city’s center. This is significant because the suburbs of 19th-century Paris were politically distinct from the heart of the French capital. Paris’s periphery was reserved for factories and homes for the working class. Using this empirical method, he reached back into the deep roots of Western civilization to present a slice of contemporary life.</p>",
+          "afbeeldingl": "afternoon.jpg",
+          "afbeeldings": "afternoon.jpg"
+        },
+        {
+          "titel": "Brillo Box (Soap Pads)",
+          "id": 32,
+          "uitvoerder": "Door: Andy Warhol",
+          "categorieen": ["Beeld"],
+          "datum" : " 1964",
+          "body": "<p>The Brillo Box is perhaps the best known of a series of sculptural works Warhol created in the mid-’60s, which effectively took his investigation of pop culture into three dimensions. True to the name Warhol had given his studio—the Factory—the artist hired carpenters to work a kind of assembly line, nailing together wooden boxes in the shape of cartons for various products, including Heinz Ketchup, Kellogg’s Corn Flakes and Campbell’s Soup, as well Brillo soap pads. He then painted each box a color matching the original (white in the case of Brillo) before adding the product name and logo in silkscreen. Created in multiples, the boxes were often shown in large stacks, effectively turning whatever gallery they were in into a high-cultural facsimile of a warehouse. Their shape and serial production was perhaps a nod to—or parody of—the then-nascent Minimalist style. But the real point of Brillo Box is how its close approximation to the real thing subverts artistic conventions, by implying that there’s no real difference between manufactured goods and work from an artist’s studio.</p>",
+          "afbeeldingl": "box.jpg",
+          "afbeeldings": "box.jpg"
+        },
+        {
+          "titel": "Les Demoiselles d'Avignon",
+          "id": 18,
+          "uitvoerder": "Door: Pablo Picasso",
+          "categorieen": ["Schilderij"],
+          "datum" : " 1907",
+          "body": "<p>The ur-canvas of 20th-century art, Pablo Picasso’s 1907 breakthrough ushered in the modern era by decisively breaking with the representational tradition of Western painting, incorporating allusions to the African masks that Picasso had seen in Paris's ethnographic museum at the Palais du Trocadro. It's compositional DNA also includes El Greco's The Vision of Saint John (1608–14), now hanging in the Metropolitan Museum of Art. The women being intruded upon by the small still-life at the bottom of frame are actually prostitutes in a brothel.</p>",
+          "afbeeldingl": "demoiselles.jpg",
+          "afbeeldings": "demoiselles.jpg"
+        }
+    ]
+}
